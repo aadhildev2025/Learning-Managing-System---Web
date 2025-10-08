@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Admin User", "email": "admin@lms.com", "password": "admin123", "role": "Admin" },
+  { "id": 2, "name": "John Doe", "email": "instructor@lms.com", "password": "instructor123", "role": "Instructor" },
+  { "id": 3, "name": "Jane Smith", "email": "student@lms.com", "password": "student123", "role": "Student" }
+]

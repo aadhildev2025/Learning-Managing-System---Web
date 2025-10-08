@@ -1,0 +1,81 @@
+[
+  {
+    "id": 101,
+    "title": "React Fundamentals",
+    "description": "Learn the basics of React.",
+    "category": "Web Development",
+    "instructorId": 2,
+    "enrolledStudents": [3],
+    "modules": [
+      { "id": 1, "title": "Introduction", "type": "lecture", "completedBy": [3] },
+      { "id": 2, "title": "JSX & Components", "type": "lecture", "completedBy": [] },
+      { "id": 3, "title": "Assignments 1", "type": "assignment", "completedBy": [] }
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Advanced JavaScript",
+    "description": "Deep dive into modern JS concepts.",
+    "category": "Programming",
+    "instructorId": 2,
+    "enrolledStudents": [],
+    "modules": [
+      { "id": 1, "title": "Closures", "type": "lecture", "completedBy": [] },
+      { "id": 2, "title": "Async/Await", "type": "lecture", "completedBy": [] }
+    ]
+  },{
+    "id": 103,
+    "title": "Python for Beginners",
+    "description": "Start coding with Python from scratch.",
+    "category": "Programming",
+    "instructorId": 3,
+    "enrolledStudents": [],
+    "modules": [
+      { "id": 1, "title": "Getting Started with Python", "type": "lecture", "completedBy": [] },
+      { "id": 2, "title": "Variables and Data Types", "type": "lecture", "completedBy": [] },
+      { "id": 3, "title": "Mini Project 1", "type": "assignment", "completedBy": [] }
+    ]
+  },
+  {
+    "id": 104,
+    "title": "UI/UX Design Basics",
+    "description": "Learn the fundamentals of user interface and experience design.",
+    "category": "Design",
+    "instructorId": 4,
+    "enrolledStudents": [],
+    "modules": [
+      { "id": 1, "title": "Introduction to UI/UX", "type": "lecture", "completedBy": [] },
+      { "id": 2, "title": "Wireframing & Prototyping", "type": "lecture", "completedBy": [] },
+      { "id": 3, "title": "Design Assignment 1", "type": "assignment", "completedBy": [] }
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Fullstack Web Development",
+    "description": "Become a fullstack web developer using MERN stack.",
+    "category": "Web Development",
+    "instructorId": 5,
+    "enrolledStudents": [],
+    "modules": [
+      { "id": 1, "title": "HTML & CSS Basics", "type": "lecture", "completedBy": [] },
+      { "id": 2, "title": "JavaScript Fundamentals", "type": "lecture", "completedBy": [] },
+      { "id": 3, "title": "Node.js & Express", "type": "lecture", "completedBy": [] },
+      { "id": 4, "title": "MongoDB Basics", "type": "lecture", "completedBy": [] },
+      { "id": 5, "title": "Final Project", "type": "assignment", "completedBy": [] }
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Data Science with Python",
+    "description": "Analyze data and build models using Python libraries.",
+    "category": "Data Science",
+    "instructorId": 6,
+    "enrolledStudents": [],
+    "modules": [
+      { "id": 1, "title": "NumPy & Pandas Basics", "type": "lecture", "completedBy": [] },
+      { "id": 2, "title": "Data Visualization with Matplotlib", "type": "lecture", "completedBy": [] },
+      { "id": 3, "title": "Machine Learning Introduction", "type": "lecture", "completedBy": [] },
+      { "id": 4, "title": "Data Science Project", "type": "assignment", "completedBy": [] }
+    ]
+  }
+]
