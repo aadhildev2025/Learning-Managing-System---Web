@@ -28,6 +28,20 @@ This project was developed as part of a Frontend Internship Assignment.
 - 💾 LocalStorage – Data persistence
 
 ---
+## 👥 Default Users
+
+The LMS comes with preconfigured users for testing:
+
+| Name         | Email                 | Password        | Role       |
+|--------------|---------------------|----------------|------------|
+| Admin User   | admin@lms.com       | admin123       | Admin      |
+| John Doe     | instructor@lms.com  | instructor123  | Instructor |
+| Jane Smith   | student@lms.com     | student123     | Student    |
+
+---
+
+
+
 ## 📂 Project Structure
 ```
 Learning Managing System-Web/
@@ -61,7 +75,7 @@ Follow these steps to run the LMS locally:
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/aadhildev2025/Learning-Managing-System---Web.git
-cd horizon-haven-website
+cd Learning-Managing-System---Web
 ```
 ### 2️⃣ Install dependencies
 ```bash
