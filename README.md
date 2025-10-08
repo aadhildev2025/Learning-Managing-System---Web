@@ -71,7 +71,7 @@ npm install
 ```bash
 npm run dev
 ```
-➡ The site will be available at: https://horizon-haven-website.vercel.app/
+➡ The site will be available at: https://learning-managing-system-web.vercel.app/login
 ### 4️⃣ Build for production
 ```bash
 npm run build
